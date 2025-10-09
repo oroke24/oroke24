@@ -77,7 +77,7 @@ For a full transcript overview, see my [unofficial EOU transcript](unofficial_tr
 
 ## 📫 Let's Connect!
 - 📧 Email: [orokejamie@email.com](mailto:jamie.oroke@email.com) (or DM via LinkedIn)
-- 💼 LinkedIn: [linkedin.com/in/jamie-oroke](https://linkedin.com/in/jamie-oroke)
+- 💼 LinkedIn: [linkedin.com/in/jamie-oroke](https://www.linkedin.com/in/jamie-oroke-041692135)
 - 🌐 Portfolio: [oroke24.github.io](https://oroke24.github.io)
 
 <p align="center">
