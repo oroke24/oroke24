@@ -4,10 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%26+AI+Enthusiast;BS+Computer+Science+%2724;" alt="Typing SVG" />
 </div>
 
----
-Live projects:
-- Fit Cards: [www.fitcards.org](https://www.fitcards.org)
-- Wash n Roll Mobile Cleaning: [www.wnrmc.com](https://www.wnrmc.com)
+---🚀 Live Projects
+
+- **Fit Cards**: [www.fitcards.org](https://www.fitcards.org){:target="_blank"}
+- **Wash n Roll Mobile Cleaning**: [www.wnrmc.com](https://www.wnrmc.com){:target="_blank"}
+  
 ## 🚀 About Me
 Recent **BS in Computer Science** graduate from Eastern Oregon University (EOU), passionate about full-stack development, mobile apps, and AI-driven automation. Currently contracting remotely with Outlier AI, where I tackle data annotation and task optimization—bridging code with real-world AI applications.
 
