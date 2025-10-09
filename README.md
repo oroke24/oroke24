@@ -6,7 +6,7 @@
 
 ---🚀 Live Projects
 
-- **Fit Cards**: [www.fitcards.org](https://www.fitcards.org{:target="_blank"})
+- **Fit Cards**: [www.fitcards.org](https://www.fitcards.org:target="blank")
 - **Wash n Roll Mobile Cleaning**: [www.wnrmc.com](https://www.wnrmc.com{:target="_blank"})
   
 ## 🚀 About Me
