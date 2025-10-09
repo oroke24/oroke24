@@ -1,7 +1,7 @@
 # Hi, I'm Jamie Tyler O'Roke 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%26+AI+Enthusiast;BS+Computer+Science+%27%2724;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%26+AI+Enthusiast;BS+Computer+Science+%2724;" alt="Typing SVG" />
 </div>
 
 ---
