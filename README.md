@@ -6,8 +6,8 @@
 
 ## 🚀 Live Projects
 <div align="center">
-- **Fit Cards**: <a href="https://www.fitcards.org" target="_blank" rel="noopener noreferrer">www.fitcards.org</a>
-- **Wash n Roll Mobile Cleaning**: <a href="https://wnrmc.com" target="_blank" rel="noopener noreferrer">www.wnrmc.com</a>
+- **Fit Cards**: <a href="https://fitcards.org" target="_blank" rel="noopener noreferrer">fitcards.org</a>
+- **Wash n Roll Mobile Cleaning**: <a href="https://wnrmc.com" target="_blank" rel="noopener noreferrer">wnrmc.com</a>
 </div>
   
 ## 🚀 About Me
