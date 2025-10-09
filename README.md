@@ -1,7 +1,7 @@
 # Hi, I'm Jamie Tyler O'Roke 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%26+AI+Enthusiast;BS+Computer+Science+%27%2724;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%26+AI+Enthusiast;BS+Computer+Science+%27%2724;" alt="Typing SVG" />
 </div>
 
 ---
@@ -76,7 +76,7 @@ For a full transcript overview, see my [unofficial EOU transcript](unofficial_tr
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: [orokejamie@email.com](mailto:jamie.oroke@email.com) (or DM via LinkedIn)
+- 📧 Email: [orokejamie@email.com](mailto:orokejamie@gmail.com) (or DM via LinkedIn)
 - 💼 LinkedIn: [linkedin.com/in/jamie-oroke](https://www.linkedin.com/in/jamie-oroke-041692135)
 - 🌐 Portfolio: [oroke24.github.io](https://oroke24.github.io)
 
