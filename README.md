@@ -6,8 +6,8 @@
 
 ---🚀 Live Projects
 
-- **Fit Cards**: [www.fitcards.org](https://www.fitcards.org){:target="_blank"}
-- **Wash n Roll Mobile Cleaning**: [www.wnrmc.com](https://www.wnrmc.com){:target="_blank"}
+- **Fit Cards**: [www.fitcards.org](https://www.fitcards.org{:target="_blank"})
+- **Wash n Roll Mobile Cleaning**: [www.wnrmc.com](https://www.wnrmc.com{:target="_blank"})
   
 ## 🚀 About Me
 Recent **BS in Computer Science** graduate from Eastern Oregon University (EOU), passionate about full-stack development, mobile apps, and AI-driven automation. Currently contracting remotely with Outlier AI, where I tackle data annotation and task optimization—bridging code with real-world AI applications.
