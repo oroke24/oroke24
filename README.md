@@ -49,7 +49,7 @@ Automated stock trading bot with risk management, API integrations, and data vis
 [![Alpaca Trading Bot](https://img.shields.io/badge/Python-Trading%20Bot-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oroke24/AlpacaTrading)
 
 ### [Portfolio Site](https://oroke24.github.io)
-My personal site doubling as a mobile car wash business landing page. Full-stack with Bootstrap, Tailwind, and Firebase Hosting—responsive and SEO-ready.
+My personal site doubles as a mobile car wash business landing page. Full-stack with Bootstrap, Tailwind, and Firebase Hosting—responsive and SEO-ready.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Site-000000?style=for-the-badge&logo=github&logoColor=white)](https://oroke24.github.io)
 
@@ -76,9 +76,8 @@ For a full transcript overview, see my [unofficial EOU transcript](unofficial_tr
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: [jamie.oroke@email.com](mailto:jamie.oroke@email.com) (or DM via LinkedIn)
+- 📧 Email: [orokejamie@email.com](mailto:jamie.oroke@email.com) (or DM via LinkedIn)
 - 💼 LinkedIn: [linkedin.com/in/jamie-oroke](https://linkedin.com/in/jamie-oroke)
-- 🐦 X/Twitter: [@oroke24](https://twitter.com/oroke24)
 - 🌐 Portfolio: [oroke24.github.io](https://oroke24.github.io)
 
 <p align="center">
