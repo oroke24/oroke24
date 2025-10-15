@@ -51,7 +51,7 @@ Native Android companion app for the React version: Calendar views, workout time
 [![Android Fitness App](https://img.shields.io/badge/Android-Fitness%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/oroke24/AndroidFitnessApp)
 
 ### [AlpacaTrading](https://github.com/oroke24/AlpacaTrading)
-Automated stock trading bot with risk management, API integrations, and data visualization. Python-powered for paper/live trading—great for fintech automation.
+OOP Automated stock trading bot with risk management, API integrations, and data visualization. Python-powered for paper/live trading—great for fintech automation.
 
 [![Alpaca Trading Bot](https://img.shields.io/badge/Python-Trading%20Bot-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oroke24/AlpacaTrading)
 
