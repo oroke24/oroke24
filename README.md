@@ -5,14 +5,12 @@
 </div>
 
 ## 🚀 Live Projects
-<div align="center">
+- **Fit Cards** — fitness tracker (React, Firebase, Tailwind). Live: [fitcards.org](https://fitcards.org)
+- **Wash n Roll Mobile Cleaning** — business site (Bootstrap + Firebase Hosting). Live: [wnrmc.com](https://wnrmc.com)
+- **AlpacaTrading** — algorithmic trading bot (Python) — paper/live trading with risk controls and ATR-based trailing stops.
 
-- **Fit Cards**: [fitcards.org](https://fitcards.org)  
-- **Wash n Roll Mobile Cleaning**: [wnrmc.com](https://wnrmc.com)
+---
 
-</div>
-
-  
 ## 🚀 About Me
 Recent **BS in Computer Science** graduate from Eastern Oregon University (EOU), passionate about full-stack development, mobile apps, and AI-driven automation. Currently contracting remotely with Outlier AI, where I tackle data annotation and task optimization—bridging code with real-world AI applications.
 
