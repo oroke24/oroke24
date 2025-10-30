@@ -44,18 +44,18 @@ A responsive web fitness tracker with user auth, real-time meal/workout logging,
 
 [![React Fitness App](https://img.shields.io/badge/React-Fitness%20App-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/oroke24/ReactJsFitnessApp)
 
-### [AndroidFitnessApp](https://github.com/oroke24/AndroidFitnessApp)
-Native Android companion app for the React version: Calendar views, workout timers, and cloud-synced data using Kotlin, MVVM, and Firebase. Showcases mobile dev from my CS 369 course.
+### [ReactJsZite](https://github.com/oroke24/ReactJsZite)
+User-based storefront builder with Stripe Express, personalized landing page, QR code, and a customizable storefront for customers to browse and purchase products and services.
 
-[![Android Fitness App](https://img.shields.io/badge/Android-Fitness%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/oroke24/AndroidFitnessApp)
+[![Zite](https://img.shields.io/badge/Android-Fitness%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/oroke24/ReactJsZite)
 
 ### [AlpacaTrading](https://github.com/oroke24/AlpacaTrading)
 OOP Automated stock trading bot with risk management, API integrations, and data visualization. Python-powered for paper/live trading—great for fintech automation.
 
 [![Alpaca Trading Bot](https://img.shields.io/badge/Python-Trading%20Bot-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oroke24/AlpacaTrading)
 
-### [Portfolio Site](https://oroke24.github.io)
-My personal site doubles as a mobile car wash business landing page. Full-stack with Bootstrap, Tailwind, and Firebase Hosting—responsive and SEO-ready.
+### [Wash n Roll Mobile Cleaning](https://oroke24.github.io)
+My personal site doubles as my mobile cleaning business landing page. Full-stack with Bootstrap, Tailwind, and Firebase Hosting—responsive and SEO-ready.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Site-000000?style=for-the-badge&logo=github&logoColor=white)](https://oroke24.github.io)
 
