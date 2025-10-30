@@ -6,7 +6,7 @@
 
 ## 💎 My Flagship Project
 - **Fit Cards** — fitness tracker (React, Firebase, Tailwind). Live: [fitcards.org](https://fitcards.org)
-- 
+  
 ## 🚀 Other Live Projects
 - **Zite** — User based storefront site (React + Firebase Hosting). Live: [zite.web.app](https://zite.web.app)
 - **Wash n Roll Mobile Cleaning** — business site (Bootstrap + Firebase Hosting). Live: [wnrmc.com](https://wnrmc.com)
