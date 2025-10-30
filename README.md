@@ -5,11 +5,11 @@
 </div>
 
 ## 💎 My Flagship Project
-- **Fit Cards** — fitness tracker (React, Firebase, Tailwind). Live: [fitcards.org](https://fitcards.org)
+- **Fit Cards** — Fitness tracker (React, Firebase, Tailwind). Live: [fitcards.org](https://fitcards.org)
   
 ## 🚀 Other Live Projects
 - **Zite** — User based storefront site (React + Firebase Hosting). Live: [zite.web.app](https://zite.web.app)
-- **Wash n Roll Mobile Cleaning** — business site (Bootstrap + Firebase Hosting). Live: [wnrmc.com](https://wnrmc.com)
+- **Wash n Roll Mobile Cleaning** — Business site (Bootstrap + Firebase Hosting). Live: [wnrmc.com](https://wnrmc.com)
   
 ## 🧑‍💻 Project
 - **AlpacaTrading** — (Mostly Back-end) algorithmic trading bot (Python) — paper/live trading with risk controls and ATR-based trailing stops.
