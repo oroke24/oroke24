@@ -82,9 +82,9 @@ For a full transcript overview, see my [unofficial EOU transcript](unofficial_tr
 ---
 
 ## 📫 Let's Connect!
+- [![Discord](https://img.shields.io/badge/Discord-oroke24-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/123456789012345678)
 - 📧 Email: [orokejamie@email.com](mailto:orokejamie@gmail.com) (or DM via LinkedIn)
 - 💼 LinkedIn: [linkedin.com/in/jamie-oroke](https://www.linkedin.com/in/jamie-oroke-041692135)
-- [![Discord](https://img.shields.io/badge/Discord-oroke24-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/123456789012345678)
 - 🌐 Portfolio: [oroke24.github.io](https://oroke24.github.io)
 
 <p align="center">
