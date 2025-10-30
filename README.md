@@ -7,6 +7,7 @@
 ## 🚀 Live Projects
 - **Fit Cards** — fitness tracker (React, Firebase, Tailwind). Live: [fitcards.org](https://fitcards.org)
 - **Wash n Roll Mobile Cleaning** — business site (Bootstrap + Firebase Hosting). Live: [wnrmc.com](https://wnrmc.com)
+- **Zite** — User based storefront site (React + Firebase Hosting). Live: [zite.web.app](https://zite.web.app)
 - **AlpacaTrading** — algorithmic trading bot (Python) — paper/live trading with risk controls and ATR-based trailing stops.
 
 ---
