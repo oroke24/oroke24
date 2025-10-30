@@ -47,7 +47,7 @@ A responsive web fitness tracker with user auth, real-time meal/workout logging,
 ### [ReactJsZite](https://github.com/oroke24/ReactJsZite)
 User-based storefront builder with Stripe Express, personalized landing page, QR code, and a customizable storefront for customers to browse and purchase products and services.
 
-[![Zite](https://img.shields.io/badge/Android-Fitness%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/oroke24/ReactJsZite)
+[![Zite](https://img.shields.io/badge/React-Zite%20App-3DDC84?style=for-the-badge&logo=react&logoColor=white)](https://github.com/oroke24/ReactJsZite)
 
 ### [AlpacaTrading](https://github.com/oroke24/AlpacaTrading)
 OOP Automated stock trading bot with risk management, API integrations, and data visualization. Python-powered for paper/live trading—great for fintech automation.
@@ -84,6 +84,7 @@ For a full transcript overview, see my [unofficial EOU transcript](unofficial_tr
 ## 📫 Let's Connect!
 - 📧 Email: [orokejamie@email.com](mailto:orokejamie@gmail.com) (or DM via LinkedIn)
 - 💼 LinkedIn: [linkedin.com/in/jamie-oroke](https://www.linkedin.com/in/jamie-oroke-041692135)
+- [![Discord](https://img.shields.io/badge/Discord-oroke24-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/123456789012345678)
 - 🌐 Portfolio: [oroke24.github.io](https://oroke24.github.io)
 
 <p align="center">
@@ -93,4 +94,4 @@ For a full transcript overview, see my [unofficial EOU transcript](unofficial_tr
 ---
 
 *Last updated: October 2025*  
-<div align="center">Thanks for stopping by! ⭐ Star this repo if it sparks ideas. Open to collabs or coffee chats.</div>
+<div align="center">Thanks for stopping by! ⭐ Star a repo if it sparks ideas. Open to collabs or chats.</div>
