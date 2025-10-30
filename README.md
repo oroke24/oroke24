@@ -12,7 +12,7 @@
 - **Wash n Roll Mobile Cleaning** — Business site (Bootstrap + Firebase Hosting). Live: [wnrmc.com](https://wnrmc.com)
   
 ## 🧑‍💻 Personal Project
-- **AlpacaTrading** — (Mostly Back-end) algorithmic trading bot (Python) — paper/live trading with risk controls and ATR-based trailing stops.
+- **AlpacaTrading** — (CLI and Back-end) algorithmic trading bot (Python) — paper/live trading with risk controls and ATR-based trailing stops.
 
 ---
 
