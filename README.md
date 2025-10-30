@@ -4,15 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%26+AI+Enthusiast;BS+Computer+Science+%2724;" alt="Typing SVG" />
 </div>
 
-## 🚀 Live Projects
+## 💎 My Flagship Project
 - **Fit Cards** — fitness tracker (React, Firebase, Tailwind). Live: [fitcards.org](https://fitcards.org)
-- **Wash n Roll Mobile Cleaning** — business site (Bootstrap + Firebase Hosting). Live: [wnrmc.com](https://wnrmc.com)
+- 
+## 🚀 Other Live Projects
 - **Zite** — User based storefront site (React + Firebase Hosting). Live: [zite.web.app](https://zite.web.app)
+- **Wash n Roll Mobile Cleaning** — business site (Bootstrap + Firebase Hosting). Live: [wnrmc.com](https://wnrmc.com)
 - **AlpacaTrading** — algorithmic trading bot (Python) — paper/live trading with risk controls and ATR-based trailing stops.
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 Recent **BS in Computer Science** graduate from Eastern Oregon University (EOU), passionate about full-stack development, mobile apps, and AI-driven automation. Currently contracting remotely with Outlier AI, where I tackle data annotation and task optimization—bridging code with real-world AI applications.
 
 I thrive on turning ideas into functional apps, from fitness trackers to trading bots. With a focus on clean code, user-centric design, and scalable backends, I'm eager to contribute to innovative teams. Open to junior dev roles in web/mobile, fintech, or healthtech—let's build something awesome!
@@ -36,7 +38,7 @@ I thrive on turning ideas into functional apps, from fitness trackers to trading
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Repos
 Here are some highlights from my repos—check them out for live demos and code!
 
 ### [ReactJsFitnessApp](https://github.com/oroke24/ReactJsFitnessApp)
